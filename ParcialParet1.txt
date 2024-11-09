@@ -1,0 +1,17 @@
+PARCIAL ALQUITECTURA
+
+1.
+A) Los protocolos que interactúan en la capa de aplicación son los protocolos de HTTP que es de hipertexto, el FTP que se encarga de realizar las transferencias  de archivos entre un cliente y un servidor.
+Y el protocolo SMTP, el cual se lo utiliza para enviar un correo electrónico de un sistema a otro.
+b) El protocolo que interactúa en la capa de transporte es el TCP ya que asegura una conexión segura y confiabilidad de que los paquetes de datos lleguen en el orden adecuado.
+
+2. 
+Hay tres tipos de clases, a, b y c.
+La clase A esta destinada a soportar redes de internet grandes. Su red esta compuesta por 8 bits mientras que su host esta compuesto por 24 bits.
+La clase B esta destinada a soportar redes de internet moredas. Su red se encuentra compuesta por 16 bits y su  host al igual que la red esta compuesto por 16 bits.
+Por último la clase C esta destinada a soportar redes de internet pequeñas. Su red se encuentra compuesta por 24 bits y su host esta compuesto por 8 bits.
+3.
+Dispositivos que se pueden conectar a una red PAN son Computadoras, celulares e impresoras.
+4.
+Me encuentro conectado a FRTDF ALUMNOS, y su rango de IP es 192.168.2.164. 
+Pertenece al rango de ip 192.168.0.1.
