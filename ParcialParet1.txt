@@ -15,3 +15,13 @@ Dispositivos que se pueden conectar a una red PAN son Computadoras, celulares e 
 4.
 Me encuentro conectado a FRTDF ALUMNOS, y su rango de IP es 192.168.2.164. 
 Pertenece al rango de ip 192.168.0.1.
+7. Los recursos básicos que debemos configurar en una máquina Virtual son instalar un sistema operativo, asignar la cantidad de memoria ram, asignar la cantidad de núcleos del CPU y el almacenamiento.
+8. Los servicios que podemos utilizar en paaS son: Microsoft Azure, Google cloud, IBM cloud, Heroku entre otros.
+9. Una rama es una versión paralela de un proyecto, que lo que hace es permitir a los desarrolladores trabajar en correcciones, cambios sin tener que afectar la rama principal.
+Las ramas facilitan el trabajo colaborativo.
+Un repositorio es un contenedor donde se almacenan los archivos y su historial de versiones, guarda todos los archivos del proyecto, versiones anteriores y los metadatos para recuperar la información. 
+Hay repositorios locales o remotos.
+Las areas de trabajo de gitbash:
+Area de Trabajo que es donde se encuentran los archivos del proyecto en su forma actual.
+La segunda aérea es la de preparación, es un area donde se colocan los archivos modificados antes de ser confirmados.
+Y la tercera es el repositorio donde Git almacena todo el historial de commits.
